@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Rendy Pratama
+- 👀 I’m interested in Web Development.
+- 🌱 I’m currently learning web development framework such as NextJS and Laravel.
+- 💞️ I’m looking to looking for opportunities to implement my skill as a Fullstack web developer in a dynamic and collaborative environment that values innovation and quality.
+- 📫 How to reach me: rendypratama752@gmail.com
+- 😄 Check out my portofolio : https://rendyp-portofolio.vercel.app
